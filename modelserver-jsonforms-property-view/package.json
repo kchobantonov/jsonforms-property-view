@@ -1,6 +1,6 @@
 {
   "name": "@eclipse-emfcloud/modelserver-jsonforms-property-view",
-  "version": "0.7.0",
+  "version": "0.8.0-RC01",
   "description": "Theia extension for a modelserver aware JSONForms property view",
   "license": "(EPL-2.0 OR MIT)",
   "publishConfig": {
@@ -27,8 +27,8 @@
     "url": "https://github.com/eclipse-emfcloud/jsonforms-property-view.git"
   },
   "dependencies": {
-    "@eclipse-emfcloud/jsonforms-property-view": "0.7.0",
-    "@eclipse-emfcloud/modelserver-theia": "next"
+    "@eclipse-emfcloud/jsonforms-property-view": "0.8.0-RC01",
+    "@eclipse-emfcloud/modelserver-theia": "0.8.0-RC01"
   },
   "devDependencies": {
     "rimraf": "^2.6.1",
